@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "28216991755",
+    "project_id": "ejegdsc",
+    "storage_bucket": "ejegdsc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28216991755:android:6b269ca4755f6de650e70e",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsgFtC8H8B467k43n4lcb6bCD9AfCj3jE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
